@@ -153,6 +153,9 @@
     "statusBar.foreground": "#52a6f0",
     "statusBar.border": "#14435c",
     "statusBar.debuggingBackground": "#0d3d45",
+    "statusBar.noFolderForeground": "#52a6f0",
+    "statusBar.noFolderBackground": "#011638",
+    "statusBar.noFolderBorder": "#14435c",
     "statusBarItem.activeBackground": "#0c2a59",
     "statusBarItem.hoverBackground": "#0c2a59",
     "statusBarItem.prominentBackground": "#52a6f0",
@@ -507,6 +510,41 @@
       "scope": "markup.table",
       "settings": {
         "background": "#0c2a59",
+        "foreground": "#52a6f0"
+      }
+    },
+    {
+      "name": "Markup Italic",
+      "scope": "markup.italic",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Markup Bold",
+      "scope": "markup.bold",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markup Bold/italic",
+      "scope": "markup.italic markup.bold | markup.bold markup.italic",
+      "settings": {
+        "fontStyle": "bold italic"
+      }
+    },
+    {
+      "name": "JSON Default",
+      "scope": "source.json meta.structure.dictionary.json",
+      "settings": {
+        "foreground": "#52a6f0"
+      }
+    },
+    {
+      "name": "JSON Invalid",
+      "scope": "source.json meta.structure.dictionary.json invalid.illegal.expected-dictionary-separator.json",
+      "settings": {
         "foreground": "#52a6f0"
       }
     },

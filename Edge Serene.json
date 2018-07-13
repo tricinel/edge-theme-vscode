@@ -153,6 +153,9 @@
     "statusBar.foreground": "#805330",
     "statusBar.border": "#ddc990",
     "statusBar.debuggingBackground": "#ddc990",
+    "statusBar.noFolderForeground": "#805330",
+    "statusBar.noFolderBackground": "#fdf6e3",
+    "statusBar.noFolderBorder": "#ddc990",
     "statusBarItem.activeBackground": "#eae1cb",
     "statusBarItem.hoverBackground": "#eae1cb",
     "statusBarItem.prominentBackground": "#805330",
@@ -507,6 +510,41 @@
       "scope": "markup.table",
       "settings": {
         "background": "#eae1cb",
+        "foreground": "#805330"
+      }
+    },
+    {
+      "name": "Markup Italic",
+      "scope": "markup.italic",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Markup Bold",
+      "scope": "markup.bold",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markup Bold/italic",
+      "scope": "markup.italic markup.bold | markup.bold markup.italic",
+      "settings": {
+        "fontStyle": "bold italic"
+      }
+    },
+    {
+      "name": "JSON Default",
+      "scope": "source.json meta.structure.dictionary.json",
+      "settings": {
+        "foreground": "#805330"
+      }
+    },
+    {
+      "name": "JSON Invalid",
+      "scope": "source.json meta.structure.dictionary.json invalid.illegal.expected-dictionary-separator.json",
+      "settings": {
         "foreground": "#805330"
       }
     },
