@@ -1,3 +1,9 @@
+###v1.1.0
+
+---
+
+- Add some more syntax highlighting for Markdow, React, Typescript, JS, Python, PHP
+
 ###v1.0.0
 
 ---
