@@ -2,7 +2,7 @@
   "name": "edge",
   "displayName": "Edge Theme",
   "description": "A superb theme for your coding needs in 3 variants",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "bogdanlazar",
   "license": "MIT",
   "repository": {
@@ -17,9 +17,6 @@
     "dark theme",
     "light theme",
     "edge",
-    "night sky",
-    "ocean",
-    "serene",
     "accessible theme"
   ],
   "scripts": {
@@ -30,7 +27,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.17.0"
+    "vscode": "^1.21.0"
   },
   "categories": [
     "Themes"
