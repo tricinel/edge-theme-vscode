@@ -1,3 +1,10 @@
+###v1.1.1
+
+---
+
+- Fix button hover backgrounds
+- Fix link colors on Welcome page
+
 ###v1.1.0
 
 ---
