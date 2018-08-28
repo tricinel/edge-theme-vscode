@@ -772,6 +772,13 @@
       }
     },
     {
+      "name": "Invalid Illegal",
+      "scope": "invalid.illegal",
+      "settings": {
+        "foreground": "#52a6f0"
+      }
+    },
+    {
       "name": "normalize font style of certain components",
       "scope": [
         "meta.property-list.css meta.property-value.css variable.other.less",
