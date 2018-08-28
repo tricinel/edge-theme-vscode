@@ -1,3 +1,9 @@
+###v1.1.2
+
+---
+
+- Fix invalid tag foreground colors
+
 ###v1.1.1
 
 ---
