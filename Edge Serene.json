@@ -19,7 +19,7 @@
     "button.foreground": "#fdf6e3",
     "button.hoverBackground": "#849292",
     "dropdown.background": "#eae1cb",
-    "dropdown.listBackground": "#805330",
+    "dropdown.listBackground": "#fdf6e3",
     "dropdown.border": "#eae1cb",
     "dropdown.foreground": "#805330",
     "input.background": "#ddc990",

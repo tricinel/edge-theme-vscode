@@ -1,3 +1,9 @@
+###v1.1.3
+
+---
+
+- Fix listBackground color on dropdowns
+
 ###v1.1.2
 
 ---
