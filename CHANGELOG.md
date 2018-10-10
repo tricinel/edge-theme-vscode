@@ -1,3 +1,9 @@
+###v1.1.4
+
+---
+
+- Fix diffEditor background colors
+
 ###v1.1.3
 
 ---
