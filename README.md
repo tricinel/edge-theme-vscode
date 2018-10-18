@@ -1,5 +1,8 @@
 ![Edge Theme Preview Banner](vscode-banner.png)
 
+[![Version](https://img.shields.io/vscode-marketplace/v/bogdanlazar.edge.svg?style=for-the-badge)](https://vscodethemes.com/e/bogdanlazar.edge)
+[![Downloads](https://img.shields.io/vscode-marketplace/d/bogdanlazar.edge.svg?style=for-the-badge)](https://vscodethemes.com/e/bogdanlazar.edge)
+
 `Edge` is a simple theme with bright colors. Edge comes in three versions — _Night Sky_, _Serene_ and _Ocean_ for all day long comfortable work.
 
 ## Installation
