@@ -1,3 +1,9 @@
+###v1.1.5
+
+---
+
+- Fix colors on the sidebar when focusing on an inactive file
+
 ###v1.1.4
 
 ---
