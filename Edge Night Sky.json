@@ -67,6 +67,21 @@
     "sideBarTitle.foreground": "#a9bcd0",
     "sideBarSectionHeader.background": "#081a20",
     "sideBarSectionHeader.foreground": "#a9bcd0",
+    "settings.headerForeground": "#f3d3bd",
+    "settings.modifiedItemIndicator": "#ffe082",
+    "settings.dropdownBackground": "#081a20",
+    "settings.dropdownForeground": "#f3d3bd",
+    "settings.dropdownBorder": "#a9bcd0",
+    "settings.dropdownListBorder": "#a9bcd0",
+    "settings.checkboxBackground": "#081a20",
+    "settings.checkboxForeground": "#f3d3bd",
+    "settings.checkboxBorder": "#a9bcd0",
+    "settings.textInputBackground": "#081a20",
+    "settings.textInputForeground": "#f3d3bd",
+    "settings.textInputBorder": "#a9bcd0",
+    "settings.numberInputBackground": "#081a20",
+    "settings.numberInputForeground": "#f3d3bd",
+    "settings.numberInputBorder": "#a9bcd0",
     "tab.activeBackground": "#172a3a",
     "tab.activeForeground": "#fdf6e3",
     "tab.activeBorder": "#414856",
@@ -717,6 +732,22 @@
       }
     },
 
+    {
+      "name": "Invalid",
+      "scope": "invalid",
+      "settings": {
+        "foreground": "#fb3640",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Invalid deprecated",
+      "scope": "invalid.deprecated",
+      "settings":{
+        "foreground": "#ae81ff",
+        "fontStyle": "italic"
+      }
+    },
     {
       "name": "Changed",
       "scope": [

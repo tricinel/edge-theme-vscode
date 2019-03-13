@@ -1,3 +1,10 @@
+###v1.1.6
+
+---
+
+- Fix Invalid tag styles (background was not showing)
+- Add Settings panel colors
+
 ###v1.1.5
 
 ---
