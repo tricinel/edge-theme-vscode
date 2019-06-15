@@ -1,3 +1,9 @@
+###v1.1.7
+
+---
+
+- Improve debug toolbar contrast fixes #1
+
 ###v1.1.6
 
 ---
