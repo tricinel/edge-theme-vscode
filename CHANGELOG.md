@@ -1,3 +1,9 @@
+###v1.1.8
+
+---
+
+- Fix integrated terminal selection color fixes #2
+
 ###v1.1.7
 
 ---

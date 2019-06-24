@@ -1,56 +1,60 @@
 {
-  "name": "edge",
-  "displayName": "Edge Theme",
-  "description": "A superb theme for your coding needs in 3 variants",
-  "version": "1.1.7",
-  "publisher": "bogdanlazar",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tricinel/edge-theme-vscode"
-  },
-  "bugs": {
-    "url": "https://github.com/tricinel/edge-theme-vscode/issues"
-  },
-  "keywords": [
-    "theme",
-    "dark theme",
-    "light theme",
-    "edge",
-    "accessible theme"
-  ],
-  "scripts": {
-    "publish": "vsce publish"
-  },
-  "galleryBanner": {
-    "color": "#081a20",
-    "theme": "dark"
-  },
-  "engines": {
-    "vscode": "^1.21.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "icon": "edge-icon.png",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Edge Night Sky",
-        "uiTheme": "vs-dark",
-        "path": "./Edge Night Sky.json"
-      },
-      {
-        "label": "Edge Ocean",
-        "uiTheme": "vs-dark",
-        "path": "./Edge Ocean.json"
-      },
-      {
-        "label": "Edge Serene",
-        "uiTheme": "vs",
-        "path": "./Edge Serene.json"
-      }
-      
-    ]
-  }
+	"name": "edge",
+	"displayName": "Edge Theme",
+	"description": "A superb theme for your coding needs in 3 variants",
+	"version": "1.1.8",
+	"publisher": "bogdanlazar",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tricinel/edge-theme-vscode"
+	},
+	"bugs": {
+		"url": "https://github.com/tricinel/edge-theme-vscode/issues"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"light theme",
+		"edge",
+		"accessible theme"
+	],
+	"scripts": {
+		"publish": "vsce publish"
+	},
+	"galleryBanner": {
+		"color": "#081a20",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.21.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "edge-icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Edge Night Sky",
+				"uiTheme": "vs-dark",
+				"path": "./Edge Night Sky.json"
+			},
+			{
+				"label": "Edge Ocean",
+				"uiTheme": "vs-dark",
+				"path": "./Edge Ocean.json"
+			},
+			{
+				"label": "Edge Serene",
+				"uiTheme": "vs",
+				"path": "./Edge Serene.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "11eb4752-3e91-458c-b11c-56306b9e05fe",
+		"publisherDisplayName": "Bogdan Lazar",
+		"publisherId": "38ba1ab7-1979-499f-b501-3b732e11d77b"
+	}
 }

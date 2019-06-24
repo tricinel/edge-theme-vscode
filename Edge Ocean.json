@@ -206,7 +206,7 @@
     "terminal.ansiRed": "#e7616f",
     "terminal.ansiWhite": "#99c7f0",
     "terminal.ansiYellow": "#ffc642",
-    "terminal.selectionBackground": "#0d3d45",
+    "terminal.selectionBackground": "#0d3d454d",
     "terminalCursor.background": "#52a6f0",
     "terminalCursor.foreground": "#011638",
     "debugToolBar.background": "#0f4f68",
