@@ -1,3 +1,10 @@
+###v1.1.9
+
+---
+
+- Improve colors and color contrast for all themes
+
+
 ###v1.1.8
 
 ---

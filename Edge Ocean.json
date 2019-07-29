@@ -1,6 +1,7 @@
 {
   "name": "Edge Ocean",
   "type": "dark",
+  "author": "Bogdan Lazar",
   "colors": {
     "background": "#011638",
     "foreground": "#52a6f0",
@@ -230,7 +231,21 @@
       "name": "String",
       "scope": "string",
       "settings": {
+        "foreground": "#b2ebf2"
+      }
+    },
+    {
+      "name": "String Quoted",
+      "scope": ["string.quoted", "variable.other.readwrite.js"],
+      "settings": {
         "foreground": "#00abe7"
+      }
+    },
+    {
+      "name": "JS Constant/Variable name",
+      "scope": "variable.other.readwrite.js",
+      "settings": {
+        "foreground": "#ff7f85"
       }
     },
     {

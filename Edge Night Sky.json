@@ -1,6 +1,7 @@
 {
   "name": "Edge Night Sky",
   "type": "dark",
+  "author": "Bogdan Lazar",
   "colors": {
     "background": "#081a20",
     "foreground": "#a9bcd0",
@@ -230,7 +231,21 @@
       "name": "String",
       "scope": "string",
       "settings": {
+        "foreground": "#b2ebf2"
+      }
+    },
+    {
+      "name": "String Quoted",
+      "scope": ["string.quoted", "variable.other.readwrite.js"],
+      "settings": {
         "foreground": "#ecc6b8"
+      }
+    },
+    {
+      "name": "JS Constant/Variable name",
+      "scope": "variable.other.readwrite.js",
+      "settings": {
+        "foreground": "#65c9ed"
       }
     },
     {
