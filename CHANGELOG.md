@@ -1,3 +1,9 @@
+### v1.2.1
+
+---
+
+- Improve darker background colors
+
 ### v1.2.0
 
 ---
