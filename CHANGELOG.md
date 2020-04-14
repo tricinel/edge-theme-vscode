@@ -1,3 +1,12 @@
+### v1.2.2
+
+---
+
+- Improve editor selection color
+- Improve editor line highlights
+- Add editor current line border
+- Improve find and match colors
+
 ### v1.2.1
 
 ---
