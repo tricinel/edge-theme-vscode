@@ -1,3 +1,9 @@
+### v1.2.3
+
+---
+
+- Improve colors in merge conflicts editor
+
 ### v1.2.2
 
 ---
