@@ -6,7 +6,7 @@
     "background": "#081a20",
     "foreground": "#a9bcd0",
     "widget.shadow": "#172a3a",
-    "selection.background": "#020e13",
+    "selection.background": "#172a3a",
     "descriptionForeground": "#a9bcd0",
     "errorForeground": "#fb3640",
     "textBlockQuote.background": "#081a20",
@@ -220,7 +220,8 @@
     "gitDecoration.untrackedResourceForeground": "#b2ebf2",
     "gitDecoration.ignoredResourceForeground": "#a9bcd0",
     "gitDecoration.conflictingResourceForeground": "#a9bcd0",
-    "gitDecoration.submoduleResourceForeground": "#a9bcd0"
+    "gitDecoration.submoduleResourceForeground": "#a9bcd0",
+    "gitlens.trailingLineForegroundColor": "#358aa9"
   },
   "tokenColors": [
         {

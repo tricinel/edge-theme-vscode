@@ -6,7 +6,7 @@
     "background": "#fdf6e3",
     "foreground": "#633f24",
     "widget.shadow": "#eae1cb",
-    "selection.background": "#ddc990",
+    "selection.background": "#eae1cb",
     "descriptionForeground": "#633f24",
     "errorForeground": "#c41922",
     "textBlockQuote.background": "#fdf6e3",
@@ -113,7 +113,7 @@
     "editor.findRangeHighlightBackground": "#d8c693",
     "editor.findMatchBorder": "#757169",
     "editor.hoverHighlightBackground": "#eae1cb",
-    "editor.lineHighlightBackground": "#ddc990",
+    "editor.lineHighlightBackground": "#efe6cb",
     "editor.lineHighlightBorder": "#707c7c",
     "editorWhitespace.foreground": "#633f24",
     "editorBracketMatch.background": "#eae1cb",
@@ -220,14 +220,15 @@
     "gitDecoration.untrackedResourceForeground": "#097c8e",
     "gitDecoration.ignoredResourceForeground": "#633f24",
     "gitDecoration.conflictingResourceForeground": "#633f24",
-    "gitDecoration.submoduleResourceForeground": "#633f24"
+    "gitDecoration.submoduleResourceForeground": "#633f24",
+    "gitlens.trailingLineForegroundColor": "#707c7c"
   },
   "tokenColors": [
         {
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#717171"
+        "foreground": "#bada55"
       }
     },
     {

@@ -1,3 +1,10 @@
+### v1.2.4
+
+---
+
+- Fix contrast issues for text selection in text fields (e.g. Find and Replace)
+- Fix contrast issue for Gitlens trailingLineForegroundColor
+
 ### v1.2.3
 
 ---
