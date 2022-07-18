@@ -1,3 +1,9 @@
+### v1.2.5
+
+---
+
+- Remove a silly #bada55 color used for debugging
+
 ### v1.2.4
 
 ---
