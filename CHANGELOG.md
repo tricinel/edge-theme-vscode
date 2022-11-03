@@ -1,3 +1,10 @@
+### v1.2.6
+
+---
+
+- Fix gitignored files color in sidebar (fixes #3)
+- Fix Terminal cursor color (fixes #3)
+
 ### v1.2.5
 
 ---
